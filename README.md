@@ -29,6 +29,12 @@ A professional 3D bouncing ball game with realistic physics, health system (spik
 - 🔊 Sound effects for actions (bounce, damage, heal, water)
 - 📱 Responsive camera follow system
 - 🎮 Optimized performance for smooth 60+ FPS
+- - 🏆 **Score System**: Real-time score tracking with points for pickups and survival time
+- 🅰️ **High Score**: Persistent high score saved locally with PlayerPrefs
+- ⏸️ **Pause Menu**: Full pause functionality with ESC key - Resume, Restart, or Quit
+- 🎬 **Professional Animations**: Smooth rotations, bounces, pulses, fades, and transitions
+- 🔄 **Animated Pickups**: Hearts and items with rotation and pulsing effects
+- 💥 **Visual Feedback**: Damage shake effects and collection animations
 
 ## 🚀 Getting Started
 
